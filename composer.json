@@ -1,0 +1,17 @@
+{
+    "name": "italorocha/italorocha",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Italorocha\\Italorocha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Italo Rocha"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
