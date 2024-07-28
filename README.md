@@ -44,3 +44,7 @@ $ mpdf = novo \ Mpdf \ Mpdf ([ 'tempDir' => __DIR__ . '/tmp' ]);
 Por padrão, o diretório temporário estará dentro do diretório do fornecedor e terá permissões de gravação do post_installscript do compositor.
 
 Para obter mais informações sobre o diretório temporário personalizado, consulte a nota sobre Pasta para arquivos temporários na seção Instalação e configuração do manual .
+
+# Resultado do projeto
+
+<img src="https://github.com/ItaloRochaj/mPDF-biblioteca/blob/main/Captura%20de%20tela%20de%202024-07-28%2018-49-32.png">
